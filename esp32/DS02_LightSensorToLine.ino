@@ -4,7 +4,7 @@
    modified by Digital Siam
 */
 #include <TridentTD_LineNotify.h>
-#define SSID        "JUNE"
+#define SSID        "SSID"
 #define PASSWORD    "PASSWORD"
 #define LINE_TOKEN  "TOKEN"
 
